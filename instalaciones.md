@@ -15,3 +15,8 @@ diabloooossss
 
 OMIRITEMOS ALGUNOS CAMBIOS
 
+
+verbo 66 error corregido 
+oyea
+
+
