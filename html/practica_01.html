@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="/css/estilos.css">
+    <title>Vendedores</title>
+</head>
+<body>
+    <header>
+        <center>
+            <h2>Vendedores</h2>
+            <br>
+        </center>
+    </header>
+
+    <div>
+        <label for="">ID</label>
+        <input type="text" name="" id="txtId">
+        <button id="btnBuscar">Buscar</button>
+    </div>
+
+    <section>
+
+        <label for="">Nombre</label>
+        <input type="text" name="" id="txtNombre" readonly>
+        <label for="">Nombre de Usuario</label>
+        <input type="text" name="" id="txtUsername" readonly>
+        <label for="">E-mail</label>
+        <input type="text" name="" id="txtEmail" readonly>
+        <label for="">Domicilo</label>
+        <input type="text" name="" id="txtCalle" readonly>
+        <input type="text" name="" id="txtNumero" readonly>
+        <input type="text" name="" id="txtCiudad" readonly>
+
+       
+        <button id="btnLimpiar">Limpiar</button>
+        <label for="" id="lblError"></label>
+    </section>
+
+    <script src="https://cdn.jsdelivr.net/npm/axios/dist/axios.min.js"></script>
+    <script src="/js/users.js"></script>
+</body>
+</html>
