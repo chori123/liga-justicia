@@ -19,4 +19,4 @@ OMIRITEMOS ALGUNOS CAMBIOS
 verbo 66 error corregido 
 oyea
 
-
+modificacione spara stash
