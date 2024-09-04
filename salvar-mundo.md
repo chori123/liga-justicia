@@ -1,4 +1,5 @@
 #ESTOS SON LOS planes para :
 
-destruir el mundo 
-1.- 
+Salvar al munod
+
+1.- paz
