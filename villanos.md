@@ -6,6 +6,8 @@
 4. Doomsday
 5. Deadshot
 6. Ivy
+7. Harley 
+8. Pinguino
 
 #Notas en villanos 
 
